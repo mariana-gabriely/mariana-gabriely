@@ -1,6 +1,16 @@
-### OLÁ 👋
+### Hello 
 
-Meu nome é Mariana Gabriely, tenho 18 anos e estou no primeiro ano de Engenharia de Software. 😄
+I'm Mariana Gabriely and currently I'm in my first year of Software Engineering.
+<!--and my goal is to-->
 
-- 📫 Tenho interesse em Python, AWS, Inteligencia Artificial e Computação Quântica. 🤠
+#### Detailed information
 
+* **Name**: Mariana Gabriely
+* **Age**: 18
+* **Living in**: Londrina - PR, Brazil
+* **Learning**: Python
+* **University**: Centro Universitário Filadélfia - Unifil
+
+<!-- ### Curiosities about me
+
+* -->
