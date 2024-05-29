@@ -1,4 +1,4 @@
-### Hello 
+### Hello ✨
 
 I'm Mariana Gabriely and currently I'm in my first year of Software Engineering.
 <!--and my goal is to-->
