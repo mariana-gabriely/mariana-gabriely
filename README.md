@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mariana-gabriely
+- 👀 I’m interested in quantum science
+- 🌱 I’m currently learning python and java
